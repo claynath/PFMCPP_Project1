@@ -52,84 +52,84 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:    cat
-//  action 1:
+//  Noun:     cat
+//  action 1: the cat purrs
 cat.purr();
-//  action 2:
+//  action 2: the cat runs
 cat.run();
-//  action 3:
+//  action 3: the cat sleeps
 cat.sleep();
 //  2)
-//  Noun:    dog
-//  action 1:
+//  Noun:     dog
+//  action 1: the dog barks
 dog.bark();
-//  action 2:
+//  action 2: the dog growls
 dog.growl();
-//  action 3:
+//  action 3: the dog bites
 dog.bite();
 //  3)
-//  Noun:    car
-//  action 1:
+//  Noun:     car
+//  action 1: the car goes
 car.go();
-//  action 2:
+//  action 2: the car stops
 car.stop();
-//  action 3:
+//  action 3: the car leaks fluid
 car.leakFluid();
 //  4)
-//  Noun:    leg
-//  action 1:
+//  Noun:     leg
+//  action 1: the leg kicks
 leg.kick();
-//  action 2:
+//  action 2: the leg flexs
 leg.flex();
-//  action 3:
+//  action 3: the leg bends
 leg.bend();
 //  5)
-//  Noun:    mouth
-//  action 1:
+//  Noun:     mouth
+//  action 1: the mouth speaks
 mouth.speak();
-//  action 2:
+//  action 2: the mouth tastes
 mouth.taste();
-//  action 3:
+//  action 3: the mouth blows
 mouth.blow();
 //  6)
-//  Noun:    finger
-//  action 1:
+//  Noun:     finger
+//  action 1: the finger points
 finger.point();
-//  action 2:
+//  action 2: the finger scratches
 finger.scratch();
-//  action 3:
+//  action 3: the finger rubs
 finger.rub();
 //  7)
-//  Noun:    wife
-//  action 1:
+//  Noun:     wife
+//  action 1: the wife cooks
 wife.cook();
-//  action 2:
+//  action 2: the wife cleans
 wife.clean();
-//  action 3:
+//  action 3: the wife sleeps
 wife.sleep();
 //  8)
-//  Noun:    friend
-//  action 1:
+//  Noun:     friend
+//  action 1: the friend gives a hi-five
 friend.giveHiFive();
-//  action 2:
+//  action 2: the friend fights
 friend.fight();
-//  action 3:
+//  action 3: the friend plays
 friend.play();
 //  9)
-//  Noun:    hammer
-//  action 1:
+//  Noun:     hammer
+//  action 1: the hammer nails
 hammer.nail();
-//  action 2:
+//  action 2: the hammer pulls out the nail
 hammer.pullOutNail();
-//  action 3:
+//  action 3: the hammer destroys
 hammer.destroy();
 //  10)
-//  Noun:    fire
-//  action 1:
+//  Noun:     fire
+//  action 1: the fire burns
 fire.burn();
-//  action 2:
+//  action 2: the fire heats
 fire.heat();
-//  action 3:
+//  action 3: the fire spreads
 fire.spread();
 
 
