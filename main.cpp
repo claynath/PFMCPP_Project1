@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
+//  Noun:    cat
 //  action 1:
-
+cat.purr();
 //  action 2:
-
+cat.run();
 //  action 3:
-
+cat.sleep();
 //  2)
-//  Noun:
+//  Noun:    dog
 //  action 1:
-
+dog.bark();
 //  action 2:
-
+dog.growl();
 //  action 3:
-
+dog.bite();
 //  3)
-//  Noun:
+//  Noun:    car
 //  action 1:
-
+car.go();
 //  action 2:
-
+car.stop();
 //  action 3:
-
+car.leakFluid();
 //  4)
-//  Noun:
+//  Noun:    leg
 //  action 1:
-
+leg.kick();
 //  action 2:
-
+leg.flex();
 //  action 3:
-
+leg.bend();
 //  5)
-//  Noun:
+//  Noun:    mouth
 //  action 1:
-
+mouth.speak();
 //  action 2:
-
+mouth.taste();
 //  action 3:
-
+mouth.blow();
 //  6)
-//  Noun:
+//  Noun:    finger
 //  action 1:
-
+finger.point();
 //  action 2:
-
+finger.scratch();
 //  action 3:
-
+finger.rub();
 //  7)
-//  Noun:
+//  Noun:    wife
 //  action 1:
-
+wife.cook();
 //  action 2:
-
+wife.clean();
 //  action 3:
-
+wife.sleep();
 //  8)
-//  Noun:
+//  Noun:    friend
 //  action 1:
-
+friend.giveHiFive();
 //  action 2:
-
+friend.fight();
 //  action 3:
-
+friend.play();
 //  9)
-//  Noun:
+//  Noun:    hammer
 //  action 1:
-
+hammer.nail();
 //  action 2:
-
+hammer.pullOutNail();
 //  action 3:
-
+hammer.destroy();
 //  10)
-//  Noun:
+//  Noun:    fire
 //  action 1:
-
+fire.burn();
 //  action 2:
-
+fire.heat();
 //  action 3:
-
+fire.spread();
 
 
 #endif
