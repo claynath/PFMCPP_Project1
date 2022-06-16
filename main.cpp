@@ -108,13 +108,13 @@ wife.clean();
 //  action 3: the wife sleeps
 wife.sleep();
 //  8)
-//  Noun:     friend
-//  action 1: the friend gives a hi-five
-friend.giveHiFive();
-//  action 2: the friend fights
-friend.fight();
-//  action 3: the friend plays
-friend.play();
+//  Noun:     basketballPlayer
+//  action 1: the basketballPlayer shoots the ball
+basketballPlayer.shootBall();
+//  action 2: the basketballPlayer blocks
+basketballPlayer.block();
+//  action 3: the basketballPlayer passes the ball
+basketballPlayer.passBall();
 //  9)
 //  Noun:     hammer
 //  action 1: the hammer nails
